@@ -65,7 +65,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: emilykubota # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username:  # your Twitter handle
+twitter_username:  emilykubota # your Twitter handle
 linkedin_username: emilykubota # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -90,8 +90,6 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
