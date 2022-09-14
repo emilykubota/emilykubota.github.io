@@ -1,0 +1,134 @@
+I"ó<p>Our visual system has regions that are specialized for processing different categories, like faces and words. One hypothesis is that these regions gain their specialization via unique connections with the rest of the brain.</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/word-brain-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/word-brain-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/word-brain-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/word-brain.png" class="img-fluid rounded" width="auto" height="auto" title="word-network" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="caption">
+        word network
+    </div>
+    </div>
+    <div class="col-sm-5 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/face-brain-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/face-brain-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/face-brain-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/face-brain.png" class="img-fluid rounded" width="auto" height="auto" title="face-network" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="caption">
+        face network
+    </div>
+    </div>
+</div>
+
+<p>To test this hypothesis, we examined the white matter connections of word and face-selective regions using functional magnetic resonance imaging and diffusion magnetic resonance imaging in children and adults.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/kid3-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/kid3-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/kid3-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/kid3.png" class="img-fluid rounded" width="auto" height="auto" title="kid" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/adult1-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/adult1-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/adult1-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/adult1.png" class="img-fluid rounded" width="auto" height="auto" title="adult" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/mri-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/mri-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/mri-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/mri.png" class="img-fluid rounded" width="auto" height="auto" title="mri" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>We found that the white matter connections of word and face-selective regions are similar in childhood and become more distinct over development.</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/endpoints-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/endpoints-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/endpoints-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/endpoints.png" class="img-fluid rounded" width="auto" height="auto" title="results" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="caption">
+        The connections of seed face (red) and word (blue)-selective regions to 180 regions across the brain. Children (n=27) are presented on the left and adults (n=29) are presented on the right.
+        </div>
+    </div>  
+</div>
+
+<p>These findings suggest that white matter connections may be domain-general early in development, allowing us to learn to recognize new categories of importance (e.g., words), and that specialized connections can emerge into adulthood.</p>
+:ET

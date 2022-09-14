@@ -1,0 +1,163 @@
+I"<!-- _pages/publications.md -->
+<div class="publications">
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/Fig3.png" /></div>
+
+        <!-- Entry bib key -->
+        <div id="kubota2022" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">White matter connections of high-level visual areas predict cytoarchitecture better than category-selectivity in childhood, but not adulthood</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          <em>E. Kubota</em>,&nbsp;M. Grotheer,&nbsp;D. Finzi, and
+            <span class="more-authors" title="click to view 3 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '3 more authors' ? 'V.S. Natu, J. Gomez, K. Grill-Spector' : '3 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">3 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Cerebral Cortex</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="/assets/pdf/kubota2022.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/functional_relevancy.png" /></div>
+
+        <!-- Entry bib key -->
+        <div id="grotheer2022" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Establishing the functional relevancy of white matter connections in the visual system and beyond</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          M. Grotheer,&nbsp;<em>E. Kubota</em>,&nbsp;and&nbsp;K. Grill-Spector</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Brain Structure &amp; Function</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="/assets/pdf/grotheer2022.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2019</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/word_selectivity_preview.png" /></div>
+
+        <!-- Entry bib key -->
+        <div id="kubota2019" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Word selectivity in high-level visual cortex and reading skill</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          <em>E. Kubota</em>,&nbsp;S.J. Joo,&nbsp;E. Huber, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'J.D. Yeatman' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Developmental Cognitive Neuroscience</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="/assets/pdf/kubota2019.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2018</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview"><img class="preview z-depth-1 rounded" src="/assets/img/publication_preview/phoneme_cat.png" /></div>
+
+        <!-- Entry bib key -->
+        <div id="obrien2018" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Reading ability and phoneme categorization</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          G.E. O’Brien,&nbsp;D.R. McCloy,&nbsp;<em>E. Kubota</em>, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'J.D. Yeatman' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Scientific Reports</em> 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="/assets/pdf/obrien2018.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+:ET
